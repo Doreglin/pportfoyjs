@@ -10,9 +10,9 @@ Portfolio Canvas Pro - No-Code Website Builder
 
 *Sistemin ana çalışma alanını, sonsuz tuval motorunu ve çift panelli kontrol arayüzünü aşağıda görebilirsiniz:*
 
-![Portfolio Canvas Pro Arayüzü](<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-10 085526" src="https://github.com/user-attachments/assets/26d831c9-f1d7-4e2b-81cf-03a60ec8c48a" />
-)
-*(Not: Ekran görüntünüzü proje klasörüne `arayuz.png` adıyla eklediğinizde burada görünecektir.)*
+![Portfolio Canvas Pro Arayüzü]
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-10 085526" src="https://github.com/user-attachments/assets/26d831c9-f1d7-4e2b-81cf-03a60ec8c48a" />
+
 
 ## 🚀 Öne Çıkan Özellikler
 
